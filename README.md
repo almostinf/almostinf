@@ -5,7 +5,7 @@ Golang dev
 ----------
 
 * 🌍  I'm based in Saint-Petersburg
-* ✉️  You can contact me at [tg: @webcamsmodel](mailto:tg: @webcamsmodel)
+* ✉️  You can contact me at tg: @webcamsmodel
 * 🧠  I'm learning golang
 * 🤝  I'm open to collaborating on everything
 
