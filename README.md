@@ -2,8 +2,8 @@
 
 #### A Golang backend developer
 
-Software Developer as [Kontur Inc](https://kontur.ru/)
-Maintainer of [Moira](https://github.com/moira-alert/moira) & [Graphite](https://github.com/go-graphite)
+Software Developer as [Kontur Inc](https://kontur.ru/) <br>
+Maintainer of [Moira](https://github.com/moira-alert/moira) & [Graphite](https://github.com/go-graphite) <br>
 
 * ⚙️ My skills: Docker, Kubernetes, Kafka, RabbitMQ, CI/CD, PostgreSQL, Redis
 * 💜 Inspired by Go & Rust
